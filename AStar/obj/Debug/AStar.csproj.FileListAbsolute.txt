@@ -1,0 +1,60 @@
+c:\users\investigación\documents\visual studio 2012\Projects\AStar\AStar\bin\Debug\AStar.exe.config
+c:\users\investigación\documents\visual studio 2012\Projects\AStar\AStar\obj\Debug\AStar.csprojResolveAssemblyReference.cache
+c:\users\investigación\documents\visual studio 2012\Projects\AStar\AStar\obj\Debug\AStar.Form1.resources
+c:\users\investigación\documents\visual studio 2012\Projects\AStar\AStar\obj\Debug\AStar.Properties.Resources.resources
+c:\users\investigación\documents\visual studio 2012\Projects\AStar\AStar\obj\Debug\AStar.csproj.GenerateResource.Cache
+c:\users\investigación\documents\visual studio 2012\Projects\AStar\AStar\bin\Debug\AStar.exe
+c:\users\investigación\documents\visual studio 2012\Projects\AStar\AStar\bin\Debug\AStar.pdb
+c:\users\investigación\documents\visual studio 2012\Projects\AStar\AStar\obj\Debug\AStar.exe
+c:\users\investigación\documents\visual studio 2012\Projects\AStar\AStar\obj\Debug\AStar.pdb
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\AStar\AStar\bin\Debug\AStar.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\AStar\AStar\obj\Debug\AStar.exe
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\AStar\AStar\obj\Debug\AStar.pdb
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\AStar\AStar\bin\Debug\AStar.exe
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\AStar\AStar\bin\Debug\AStar.pdb
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\AStar\AStar\obj\Debug\AStar.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\AStar\AStar\obj\Debug\AStar.Form1.resources
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\AStar\AStar\obj\Debug\AStar.Properties.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\AStar\AStar\obj\Debug\AStar.csproj.GenerateResource.Cache
+C:\Users\Rodrigo\Documents\UVP\2020 A\Robótica\AStar\A Star\AStar\AStar\bin\Debug\AStar.exe.config
+C:\Users\Rodrigo\Documents\UVP\2020 A\Robótica\AStar\A Star\AStar\AStar\obj\Debug\AStar.exe
+C:\Users\Rodrigo\Documents\UVP\2020 A\Robótica\AStar\A Star\AStar\AStar\obj\Debug\AStar.pdb
+C:\Users\Rodrigo\Documents\UVP\2020 A\Robótica\AStar\A Star\AStar\AStar\bin\Debug\AStar.exe
+C:\Users\Rodrigo\Documents\UVP\2020 A\Robótica\AStar\A Star\AStar\AStar\bin\Debug\AStar.pdb
+C:\Users\Rodrigo\Documents\UVP\2020 A\Robótica\AStar\A Star\AStar\AStar\obj\Debug\AStar.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Documents\UVP\2020 A\Robótica\AStar\A Star\AStar\AStar\obj\Debug\AStar.Form1.resources
+C:\Users\Rodrigo\Documents\UVP\2020 A\Robótica\AStar\A Star\AStar\AStar\obj\Debug\AStar.Properties.Resources.resources
+C:\Users\Rodrigo\Documents\UVP\2020 A\Robótica\AStar\A Star\AStar\AStar\obj\Debug\AStar.csproj.GenerateResource.Cache
+C:\Users\Rodrigo\Documents\UVP\2020 B\Robótica II\AStar\Material para programa AStar\AStar\AStar\bin\Debug\AStar.exe.config
+C:\Users\Rodrigo\Documents\UVP\2020 B\Robótica II\AStar\Material para programa AStar\AStar\AStar\obj\Debug\AStar.exe
+C:\Users\Rodrigo\Documents\UVP\2020 B\Robótica II\AStar\Material para programa AStar\AStar\AStar\obj\Debug\AStar.pdb
+C:\Users\user\OneDrive\Documentos\UVP\2021 A\3. Robótica 8C\Material para programa AStar\AStar\AStar\bin\Debug\AStar.exe.config
+C:\Users\user\OneDrive\Documentos\UVP\2021 A\3. Robótica 8C\Material para programa AStar\AStar\AStar\bin\Debug\AStar.exe
+C:\Users\user\OneDrive\Documentos\UVP\2021 A\3. Robótica 8C\Material para programa AStar\AStar\AStar\bin\Debug\AStar.pdb
+C:\Users\user\OneDrive\Documentos\UVP\2021 A\3. Robótica 8C\Material para programa AStar\AStar\AStar\obj\Debug\AStar.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Documentos\UVP\2021 A\3. Robótica 8C\Material para programa AStar\AStar\AStar\obj\Debug\AStar.Form1.resources
+C:\Users\user\OneDrive\Documentos\UVP\2021 A\3. Robótica 8C\Material para programa AStar\AStar\AStar\obj\Debug\AStar.Properties.Resources.resources
+C:\Users\user\OneDrive\Documentos\UVP\2021 A\3. Robótica 8C\Material para programa AStar\AStar\AStar\obj\Debug\AStar.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Documentos\UVP\2021 A\3. Robótica 8C\Material para programa AStar\AStar\AStar\obj\Debug\AStar.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documentos\UVP\2021 A\3. Robótica 8C\Material para programa AStar\AStar\AStar\obj\Debug\AStar.exe
+C:\Users\user\OneDrive\Documentos\UVP\2021 A\3. Robótica 8C\Material para programa AStar\AStar\AStar\obj\Debug\AStar.pdb
+C:\Users\user\OneDrive\Documentos\UVP\2021 A\3. Robótica 8C\Primer y segundo parcial\Material para programa AStar\AStar\AStar\bin\Debug\AStar.exe.config
+C:\Users\user\OneDrive\Documentos\UVP\2021 A\3. Robótica 8C\Primer y segundo parcial\Material para programa AStar\AStar\AStar\bin\Debug\AStar.exe
+C:\Users\user\OneDrive\Documentos\UVP\2021 A\3. Robótica 8C\Primer y segundo parcial\Material para programa AStar\AStar\AStar\bin\Debug\AStar.pdb
+C:\Users\user\OneDrive\Documentos\UVP\2021 A\3. Robótica 8C\Primer y segundo parcial\Material para programa AStar\AStar\AStar\obj\Debug\AStar.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Documentos\UVP\2021 A\3. Robótica 8C\Primer y segundo parcial\Material para programa AStar\AStar\AStar\obj\Debug\AStar.Form1.resources
+C:\Users\user\OneDrive\Documentos\UVP\2021 A\3. Robótica 8C\Primer y segundo parcial\Material para programa AStar\AStar\AStar\obj\Debug\AStar.Properties.Resources.resources
+C:\Users\user\OneDrive\Documentos\UVP\2021 A\3. Robótica 8C\Primer y segundo parcial\Material para programa AStar\AStar\AStar\obj\Debug\AStar.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Documentos\UVP\2021 A\3. Robótica 8C\Primer y segundo parcial\Material para programa AStar\AStar\AStar\obj\Debug\AStar.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documentos\UVP\2021 A\3. Robótica 8C\Primer y segundo parcial\Material para programa AStar\AStar\AStar\obj\Debug\AStar.exe
+C:\Users\user\OneDrive\Documentos\UVP\2021 A\3. Robótica 8C\Primer y segundo parcial\Material para programa AStar\AStar\AStar\obj\Debug\AStar.pdb
+C:\Users\hp\Desktop\Octavo semestre\AStar\AStar\bin\Debug\AStar.exe.config
+C:\Users\hp\Desktop\Octavo semestre\AStar\AStar\bin\Debug\AStar.exe
+C:\Users\hp\Desktop\Octavo semestre\AStar\AStar\bin\Debug\AStar.pdb
+C:\Users\hp\Desktop\Octavo semestre\AStar\AStar\obj\Debug\AStar.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Octavo semestre\AStar\AStar\obj\Debug\AStar.Form1.resources
+C:\Users\hp\Desktop\Octavo semestre\AStar\AStar\obj\Debug\AStar.Properties.Resources.resources
+C:\Users\hp\Desktop\Octavo semestre\AStar\AStar\obj\Debug\AStar.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Octavo semestre\AStar\AStar\obj\Debug\AStar.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Octavo semestre\AStar\AStar\obj\Debug\AStar.exe
+C:\Users\hp\Desktop\Octavo semestre\AStar\AStar\obj\Debug\AStar.pdb
