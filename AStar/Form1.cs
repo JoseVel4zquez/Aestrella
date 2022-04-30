@@ -78,10 +78,9 @@ namespace AStar
             
         }
 
-       
+		private void radioButtonObstaculo_CheckedChanged(object sender, EventArgs e)
+		{
 
-       
-
-        
-    }
+		}
+	}
 }
