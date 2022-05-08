@@ -46,7 +46,7 @@ namespace AStar
 
             if (radioButtonInicio.Checked)
             {
-                tablero.CurrentCell.Style.BackColor = Color.Red;
+                this.tablero.CurrentCell.Style.BackColor = Color.Red;
                 a.inicio.X = tablero.CurrentCell.ColumnIndex;
                 a.inicio.Y = tablero.CurrentCell.RowIndex;
                 labelInicio.Text = "(" + a.inicio.X + "," + a.inicio.Y + ")";
@@ -54,16 +54,16 @@ namespace AStar
             }
             if (radioButtonMeta.Checked)
             {
-                tablero.CurrentCell.Style.BackColor = Color.Green;
+                this.tablero.CurrentCell.Style.BackColor = Color.Green;
                 a.meta.X = tablero.CurrentCell.ColumnIndex;
                 a.meta.Y = tablero.CurrentCell.RowIndex;
                 labelMeta.Text = "(" + a.meta.X + "," + a.meta.Y + ")";
             }
             if (radioButtonObstaculo.Checked)
-                     tablero.CurrentCell.Style.BackColor = Color.Black;
+                     this.tablero.CurrentCell.Style.BackColor = Color.Aqua;
             if (radioButtonNinguno.Checked)
             {             
-                tablero.CurrentCell.Style.BackColor = Color.White;
+                this.tablero.CurrentCell.Style.BackColor = Color.White;
             }
 
             int j = tablero.CurrentCell.ColumnIndex;
@@ -81,6 +81,11 @@ namespace AStar
 		private void radioButtonObstaculo_CheckedChanged(object sender, EventArgs e)
 		{
 
+		}
+
+		private void Form1_Load(object sender, EventArgs e)
+		{
+            tablero.BackgroundColor = Color.White;
 		}
 	}
 }
